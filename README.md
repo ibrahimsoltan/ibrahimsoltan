@@ -29,26 +29,6 @@ I am Ibrahim Soltan, a Software Developer with a strong background in design, de
 
 ---
 
-### Languages and Tools:
-
-<p align="left"> 
-  <a href="https://java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/" alt="java" width="40" height="40"/> 
-  </a> 
-    <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-</p>
 
 ### GitHub Streak:
 
